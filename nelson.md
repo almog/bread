@@ -6,7 +6,7 @@
 * 3.5% Salt
 * 50% Whole wheat flour
 * 50% White flour
-* 100% Firm starter
+* 30% Firm starter
 
 ##Quantities for one loaf
 * 70gr Honey
@@ -15,4 +15,4 @@
 * 7gr Salt
 * 100gr Whole wheat flour
 * 100gr White flour
-* 200gr Firm starter
+* 80gr Firm starter
