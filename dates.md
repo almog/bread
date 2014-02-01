@@ -1,15 +1,15 @@
 # A dates bread
 ## Quantities for one loaf
 * Flours
-  - White wheat 325g
-  - Whole wheat  65g
-  - Rye          40g
-  - total:      430g
-* Water         290g
-* Salt           12g
-* Dates         129g
-* Shortening     19g
-* Starter        43g
+  - White wheat     325g
+  - Whole wheat      65g
+  - Rye              40g
+  - total:          430g
+* Sourdough Starter  43g
+* Water             290g
+* Salt               12g
+* Dates             129g
+* Shortening         19g
 
 Total: 922.5g
 
