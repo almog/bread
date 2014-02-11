@@ -11,7 +11,7 @@
 * Dates             129g
 * Shortening         19g
 
-Total: 922.5g
+Total: 923g
 
 
 Mix everything but the dates and the shortening and let it autolyse for 20 minutes
